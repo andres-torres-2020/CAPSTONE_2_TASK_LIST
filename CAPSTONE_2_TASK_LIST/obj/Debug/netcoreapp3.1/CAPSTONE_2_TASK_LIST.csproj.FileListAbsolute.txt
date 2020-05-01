@@ -1,0 +1,13 @@
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\obj\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.csprojAssemblyReference.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\obj\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\obj\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\obj\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\bin\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\bin\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\bin\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\bin\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\bin\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\bin\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\obj\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\obj\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\CAPSTONE_2_TASK_LIST\CAPSTONE_2_TASK_LIST\obj\Debug\netcoreapp3.1\CAPSTONE_2_TASK_LIST.genruntimeconfig.cache
