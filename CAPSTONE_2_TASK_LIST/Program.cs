@@ -341,7 +341,7 @@ namespace CAPSTONE_2_TASK_LIST
             int count = tasks.Count;
             int taskIndex = InputUtil.ReadInteger($"Which task # do you want to mark complete? (1 - {count}) : ", 1, count /*max # tasks*/);
 
-            DisplayTask(tasks[taskIndex - 1], taskIndex - 1);
+            DisplayTask(tasks[taskIndex - 1], taskIndex);
 
             if (tasks[taskIndex - 1].CompletedStatus)
             {
@@ -358,7 +358,7 @@ namespace CAPSTONE_2_TASK_LIST
             if (confirm == "y")
             {
                 tasks[taskIndex - 1].CompletedStatus = true;
-                DisplayTask(tasks[taskIndex - 1], taskIndex - 1);
+                DisplayTask(tasks[taskIndex - 1], taskIndex);
             }
         }
         public static List<string> GetTeamMembers(List<Task> tasks)
